@@ -17,6 +17,7 @@ One company's earnings a day, explained in plain language — so anyone can read
 
 | 日期 | 公司 | 一句话 |
 |---|---|---|
+| 2026-10-01 | Micron Technology（MU） | AI 数据中心缺内存，把收入、价格和利润率一起推到历史高位；下季度重点验证 86% 左右毛利率能否守住。 |
 
 ## 声明
 

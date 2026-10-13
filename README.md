@@ -19,6 +19,14 @@ One company's earnings a day, explained in plain language — so anyone can read
 |---|---|---|
 | 2026-10-01 | Micron Technology（MU） | AI 数据中心缺内存，把收入、价格和利润率一起推到历史高位；下季度重点验证 86% 左右毛利率能否守住。 |
 
+## 我用的工具
+
+- 图表与提醒：TradingView —— 我看财报时对着它画图、设价格提醒。免费档够用，升级走这个链接续费抵 $15：https://www.tradingview.com/?aff_id=1172518（推广链接，我会获得佣金）
+
+## Tools I use
+
+- Charts & alerts: TradingView — where I chart and set alerts while reading earnings. Free tier does the job; if you upgrade, this link takes $15 off your next plan: https://www.tradingview.com/?aff_id=1172518 (partner link — I earn a commission)
+
 ## 声明
 
 本仓所有笔记均为本人独立撰写，仅作学习与研究分享；**不是投资建议**，不推荐买卖任何股票，不涉及任何雇主或客户的信息、代码与资源。

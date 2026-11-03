@@ -20,6 +20,7 @@ One company's earnings a day, explained in plain language — so anyone can read
 | 2026-10-01 | Micron Technology（MU） | AI 数据中心缺内存，把收入、价格和利润率一起推到历史高位；下季度重点验证 86% 左右毛利率能否守住。 |
 | 2026-10-20 | Cleveland-Cliffs（CLF） | EPS 与 EBITDA 双超预期、营收略低预期、2027 指引远高于市场预期，股价单日涨 16%；读周期股先看价格弹性和指引方向，不看营收一条线。 |
 | 2026-10-27 | Nucor Corporation（NUE） | 营收同比 +32%、净利润翻倍还多，但管理层对 Q4 只给「持平或略高」的平指引；读周期股先看价格弹性、第一个转冷的原材料分部和它把现金往哪放。 |
+| 2026-11-03 | ON Semiconductor（ON） | 收入同比 +11%、利润增速约四倍于收入；AI 数据中心只占一成收入却同比涨 175%，读点在产能从汽车向 AI 调配的解释、和 2030 年 53% 毛利率目标该按愿景读。 |
 
 ## 我用的工具
 

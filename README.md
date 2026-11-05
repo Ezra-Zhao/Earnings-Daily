@@ -35,3 +35,5 @@ One company's earnings a day, explained in plain language — so anyone can read
 本仓所有笔记均为本人独立撰写，仅作学习与研究分享；**不是投资建议**，不推荐买卖任何股票，不涉及任何雇主或客户的信息、代码与资源。
 
 All notes here are my own writing, for learning and research sharing only. **Not investment advice.** Nothing here involves any employer or client information, code, or resources.
+
+📣 Telegram 频道：https://t.me/EzraZhao777（各平台的更新都同步到这里）

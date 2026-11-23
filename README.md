@@ -4,6 +4,9 @@
 
 One company's earnings a day, explained in plain language — so anyone can read a financial report like a story instead of a wall of numbers.
 
+> 🔥 TradingView 黑五（11月23日 00:00 PT – 11月27日 23:59 PT）：年付最高 80% off＋送 1 个月，网络星期一续到 12月1日 23:59 PT 截止 → https://www.tradingview.com/?aff_id=1172518 (affiliate link)
+> TradingView Black Friday (Nov 23–27 PT, up to 80% off annual plans + 1 free month; Cyber Monday through Dec 1, 23:59 PT) → https://www.tradingview.com/?aff_id=1172518 (affiliate link)
+
 ## 每篇怎么读（固定六段，3 分钟读完）
 
 1. **一句话总结** — 这季这家公司是赚翻了还是在过冬
